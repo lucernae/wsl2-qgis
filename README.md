@@ -94,7 +94,7 @@ If you just want to use the LTR version, simply execute:
 
 ```shell-script
 sudo apt -y update
-sudo apt -y qgis
+sudo apt -y install qgis
 ```
 
 6. Run QGIS
